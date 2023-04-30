@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(2,1): warning C4005: "UNICODE": Makro-Neudefinition
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(2,1): message : „UNICODE“ wurde zuvor in der Befehlszeile deklariert
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\tools.h(15,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\tools.h(15,25): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\tools.h(33,38): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\tools.h(58): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(38,6): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(38,6): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(39,8): warning C4838: Konvertierung von "double" zu "float" erfordert eine einschränkende Konvertierung
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(39,8): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(53,39): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(54,39): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\triangle.h(55,39): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\pxlib.h(93,30): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\pxlib.h(94,30): warning C4244: "Argument": Konvertierung von "double" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\pxlib.h(102,41): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\pxlib.h(102,39): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\pxlib.h(102,27): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(92,15): warning C4305: "+=": Verkürzung von "double" in "float"
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(92,23): warning C4305: "+=": Verkürzung von "double" in "float"
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(92,31): warning C4305: "+=": Verkürzung von "double" in "float"
+C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\main.cpp(96,15): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+  pxlib v0.0.1.vcxproj -> C:\Users\Mr Ys\Desktop\Game Engine\c++\pxlib\pxlib v0.0.1\x64\Debug\pxlib v0.0.1.exe
